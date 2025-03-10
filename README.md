@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on Lab Automation Assistant.<br>👯 I’m looking to collaborate on Automation and Robotics Projects.<br>🤝 I’m looking for help with finding new things to learn in the vast field of IoRT.<br>🌱 I’m currently learning C++ as a performance Base of my Lab Automation Assistant project.<br>
+👨‍💼 **Founder & CEO @Xyronix Labs**  
+📌 **Dy CEO @Business Press India**  
+🔹 **COO @Shambhavi Techno Consultancy**  
+🔹 **COO @Novatech Scientifics & Informatics**  
+🚀 **Aspiring Space Tech Enthusiast** 
 
 
 ## 🌐 Socials:
@@ -11,12 +15,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=adityaseth0905&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=adityaseth0905&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adityaseth0905&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=adityaseth0905&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=adityaseth0905&limit=5&theme=cobalt&combine_all_yearly_contributions=true)
